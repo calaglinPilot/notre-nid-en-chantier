@@ -15,7 +15,7 @@ title = 'Notre nid en chantier'
 	ShowShareButtons = true
 	ShowPostNavLinks = true
 	ShowCodeCopyButtons = true
-	
+
 # Menu principal
 [[menu.main]]
 	identifier = "about"
@@ -28,4 +28,9 @@ title = 'Notre nid en chantier'
 
 [[module.imports]]
 	path = "github.com/adityatelange/hugo-PaperMod"
+
+[caches]
+	[caches.images]
+		dir = ":cacheDir/images"
+
 
