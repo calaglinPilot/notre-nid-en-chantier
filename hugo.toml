@@ -12,15 +12,16 @@ title = 'Notre nid en chantier'
 	defaultTheme = "auto" # auto, dark, light
 	ShowBreadCrumbs = true
 	ShowReadingTime = true
-	ShowShareButtons = true
+	ShowShareButtons = false
 	ShowPostNavLinks = true
+	mainSections = []
 	ShowCodeCopyButtons = true
 
 # Menu principal
 [[menu.main]]
-	identifier = "posts"
-  	name = "Articles"
-  	url = "/posts/"
+	identifier = "billets"
+  	name = "Billets"
+  	url = "/billets/"
   	weight = 20
 
 [outputs]
@@ -32,5 +33,3 @@ title = 'Notre nid en chantier'
 [caches]
 	[caches.images]
 		dir = ":cacheDir/images"
-
-
