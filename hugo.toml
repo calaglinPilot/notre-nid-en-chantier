@@ -24,6 +24,12 @@ title = 'Notre nid en chantier'
   	url = "/billets/"
   	weight = 20
 
+[[menu.main]]
+	identifier = "categories"
+	name = "Catégories"
+	url = "/categories/"
+	weight = 30
+
 [outputs]
 	home = ["HTML", "RSS", "JSON"]
 
