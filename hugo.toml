@@ -30,6 +30,12 @@ title = 'Notre nid en chantier'
 	url = "/categories/"
 	weight = 30
 
+[[menu.main]]
+	identifier = "rss"
+	name = "Flux RSS"
+	url = "/index.xml"
+	weight = 35
+
 [outputs]
 	home = ["HTML", "RSS", "JSON"]
 
