@@ -1,6 +1,6 @@
 +++
 date = '2025-10-07T20:40:04+02:00'
-draft = true
+draft = false
 title = 'Des Sous Et Des Papiers'
 author = 'Visabelle'
 tags = ["Notaire", 'Banque', "Galère"]
