@@ -16,9 +16,6 @@ title = 'Notre nid en chantier'
 	ShowPostNavLinks = true
 	mainSections = []
 	ShowCodeCopyButtons = true
-
-
-
 	enableEmoji = true
 
 # Menu principal
