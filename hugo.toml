@@ -17,6 +17,10 @@ title = 'Notre nid en chantier'
 	mainSections = []
 	ShowCodeCopyButtons = true
 
+
+
+	enableEmoji = true
+
 # Menu principal
 [[menu.main]]
 	identifier = "billets"
