@@ -10,4 +10,4 @@ Ca n'a pas encore été simple aujourd'hui, tout n'est pas réglé mais voilà l
 ### L'argent est sur le compte du notaire !
 On vous passe les détails des comptes, décomptes et autres joies des règles de virement seul le résultat compte 😄
 {{< figure src="/notre-nid-en-chantier/photos/money.gif" title="Jour de distribution de fonds" alt="Une personne jette des billets" >}}
-Ceux qui veulent peuvent aussi chanter le morceau d'ABBA 🎶
+Ceux qui veulent peuvent aussi chanter le morceau d'ABBA 🎶 🕺
